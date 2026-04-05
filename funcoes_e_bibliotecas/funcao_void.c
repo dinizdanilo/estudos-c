@@ -16,7 +16,7 @@ int main() {
     printf("Escolha uma opção: ");
     scanf("%d%*c", &opcao);
 
-    printf("Você escolheu a opção %d\n", opcao);
+    printf("Voce escolheu a opção %d\n", opcao);
 
     return 0;
 }
